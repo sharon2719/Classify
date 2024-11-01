@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Classify</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="doodle_a_digit_and_press_classify">Doodle a digit and press \'Classify\'</string>
+</resources>
